@@ -1,0 +1,256 @@
+psutil.Process(pid=472, name='chrome.exe', status='running', started='13:10:38')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=932, name='lsass.exe', status='running', started='2021-07-17 11:34:10')
+C:\Windows\System32\lsass.exe
+psutil.Process(pid=1316, name='chrome.exe', status='running', started='13:10:38')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=2280, name='chrome.exe', status='running', started='13:10:39')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=2844, name='HTTP Toolkit.exe', status='running', started='19:22:28')
+C:\Users\dguisti\AppData\Local\Programs\httptoolkit\HTTP Toolkit.exe
+psutil.Process(pid=2900, name='chrome.exe', status='running', started='13:10:39')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=3216, name='node.exe', status='running', started='13:10:59')
+C:\Program Files\Adobe\Adobe Creative Cloud Experience\libs\node.exe
+psutil.Process(pid=3772, name='NVIDIA Share.exe', status='running', started='12:53:44')
+C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe
+psutil.Process(pid=4008, name='googledrivesync.exe', status='running', started='13:10:53')
+C:\Program Files\Google\Drive\googledrivesync.exe
+psutil.Process(pid=4016, name='nvcontainer.exe', status='running', started='13:10:29')
+C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+psutil.Process(pid=4840, name='OneDrive.exe', status='running', started='13:10:48')
+C:\Program Files (x86)\Microsoft OneDrive\OneDrive.exe
+psutil.Process(pid=4864, name='Code.exe', status='running', started='19:24:20')
+C:\Users\dguisti\AppData\Local\Programs\Microsoft VS Code\Code.exe
+psutil.Process(pid=5476, name='Code.exe', status='running', started='19:26:17')
+C:\Users\dguisti\AppData\Local\Programs\Microsoft VS Code\Code.exe
+psutil.Process(pid=5888, name='chrome.exe', status='running', started='13:12:17')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=5972, name='DiscordCanary.exe', status='running', started='19:35:19')
+C:\Users\dguisti\AppData\Local\DiscordCanary\app-1.0.37\DiscordCanary.exe
+psutil.Process(pid=6984, name='AdobeCollabSync.exe', status='running', started='13:10:53')
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\AdobeCollabSync.exe
+psutil.Process(pid=7840, name='NVIDIA Share.exe', status='running', started='12:53:45')
+C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe
+psutil.Process(pid=7844, name='nvcontainer.exe', status='running', started='13:10:29')
+C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+psutil.Process(pid=8052, name='chrome.exe', status='running', started='19:41:06')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=8072, name='Wacom_TouchUser.exe', status='running', started='12:53:41')
+C:\Program Files\Tablet\Wacom\Wacom_TouchUser.exe
+psutil.Process(pid=8184, name='dwm.exe', status='running', started='12:53:40')
+C:\Windows\System32\dwm.exe
+psutil.Process(pid=8460, name='Adobe Installer.exe', status='running', started='14:34:55')
+C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\ElevationManager\Adobe Installer.exe
+psutil.Process(pid=8576, name='chrome.exe', status='running', started='19:23:37')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=8620, name='Code.exe', status='running', started='19:24:20')
+C:\Users\dguisti\AppData\Local\Programs\Microsoft VS Code\Code.exe
+psutil.Process(pid=8644, name='safekidsui.exe', status='running', started='13:10:30')
+C:\Program Files (x86)\Kaspersky Lab\Kaspersky Safe Kids 1.0.5\safekidsui.exe
+psutil.Process(pid=8740, name='chrome.exe', status='running', started='13:10:39')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=8828, name='MSI.CentralServer.exe', status='running', started='2021-07-17 11:34:26')
+C:\Program Files (x86)\MSI\One Dragon Center\MSI.CentralServer.exe
+psutil.Process(pid=9060, name='chrome.exe', status='running', started='13:10:38')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=9328, name='CodeHelper.exe', status='running', started='19:26:18')
+C:\Users\dguisti\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\platform\files\node\watcher\win32\CodeHelper.exe
+psutil.Process(pid=9580, name='chrome.exe', status='running', started='19:22:30')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=9652, name='chrome.exe', status='running', started='19:23:30')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=9804, name='Creative Cloud Helper.exe', status='running', started='14:34:51')
+C:\Program Files\Adobe\Adobe Creative Cloud\ACC\Creative Cloud Helper.exe
+psutil.Process(pid=10076, name='notepad.exe', status='running', started='19:28:42')
+C:\Windows\System32\notepad.exe
+psutil.Process(pid=10232, name='chrome.exe', status='running', started='19:23:53')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=10692, name='Wacom_Tablet.exe', status='running', started='13:10:31')
+C:\Program Files\Tablet\Wacom\Wacom_Tablet.exe
+psutil.Process(pid=10944, name='AdobeIPCBroker.exe', status='running', started='13:11:03')
+C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\IPCBox\AdobeIPCBroker.exe
+psutil.Process(pid=10964, name='chrome.exe', status='running', started='19:39:12')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=11340, name='Wacom_Tablet.exe', status='running', started='12:53:41')
+C:\Program Files\Tablet\Wacom\Wacom_Tablet.exe
+psutil.Process(pid=11628, name='Code.exe', status='running', started='19:26:21')
+C:\Users\dguisti\AppData\Local\Programs\Microsoft VS Code\Code.exe
+psutil.Process(pid=11660, name='chrome.exe', status='running', started='13:10:38')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=11732, name='chrome.exe', status='running', started='19:21:19')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=11844, name='dwm.exe', status='running', started='2021-07-20 16:59:20')
+C:\Windows\System32\dwm.exe
+psutil.Process(pid=11904, name='chrome.exe', status='running', started='19:29:52')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=12172, name='rundll32.exe', status='running', started='17:36:14')
+C:\Windows\System32\rundll32.exe
+psutil.Process(pid=12228, name='setup.exe', status='running', started='13:19:16')
+C:\ProgramData\NVIDIA Corporation\Downloader\acee00a59dcba34301f1ad0cf0cd6701_extracted\setup.exe
+psutil.Process(pid=12444, name='chrome.exe', status='running', started='13:10:39')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=12584, name='WacomHost.exe', status='running', started='12:53:41')
+C:\Program Files\Tablet\Wacom\WacomHost.exe
+psutil.Process(pid=12612, name='chrome.exe', status='running', started='13:10:39')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=13100, name='cmd.exe', status='running', started='19:22:28')
+C:\Windows\System32\cmd.exe
+psutil.Process(pid=13360, name='Wacom_TabletUser.exe', status='running', started='13:10:31')
+C:\Program Files\Tablet\Wacom\Wacom_TabletUser.exe
+psutil.Process(pid=13460, name='node.exe', status='running', started='14:34:51')
+C:\Program Files\Common Files\Adobe\Creative Cloud Libraries\libs\node.exe
+psutil.Process(pid=13524, name='chrome.exe', status='running', started='19:24:59')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=13604, name='chrome.exe', status='running', started='13:10:39')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=13652, name='CC_Engine_x64.exe', status='running', started='2021-07-17 11:34:32')
+C:\Program Files (x86)\MSI\One Dragon Center\CC_Engine_x64.exe
+psutil.Process(pid=13996, name='chrome.exe', status='running', started='19:22:30')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=14132, name='chrome.exe', status='running', started='19:23:37')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=14292, name='chrome.exe', status='running', started='13:11:06')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=14504, name='chrome.exe', status='running', started='13:10:39')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=14844, name='NVDisplay.Container.exe', status='running', started='2021-07-20 16:59:26')
+C:\Windows\System32\DriverStore\FileRepository\nvmdi.inf_amd64_4f0927d2d65e905f\Display.NvContainer\NVDisplay.Container.exe
+psutil.Process(pid=14908, name='nvsphelper64.exe', status='running', started='12:53:44')
+C:\Program Files\NVIDIA Corporation\ShadowPlay\nvsphelper64.exe
+psutil.Process(pid=15160, name='DiscordCanary.exe', status='running', started='19:35:19')
+C:\Users\dguisti\AppData\Local\DiscordCanary\app-1.0.37\DiscordCanary.exe
+psutil.Process(pid=15912, name='chrome.exe', status='running', started='19:40:19')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=16104, name='nvcontainer.exe', status='running', started='12:53:39')
+C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+psutil.Process(pid=16116, name='NahimicMonitorX64.exe', status='running', started='2021-07-17 11:34:43')
+C:\Program Files (x86)\MSI\One Dragon Center\Nahimic\NahimicMonitorX64.exe
+psutil.Process(pid=16268, name='safekidsui.exe', status='running', started='12:53:39')
+C:\Program Files (x86)\Kaspersky Lab\Kaspersky Safe Kids 1.0.5\safekidsui.exe
+psutil.Process(pid=16816, name='cmd.exe', status='running', started='19:27:18')
+C:\Windows\System32\cmd.exe
+psutil.Process(pid=17012, name='HTTP Toolkit.exe', status='running', started='19:22:28')
+C:\Users\dguisti\AppData\Local\Programs\httptoolkit\HTTP Toolkit.exe
+psutil.Process(pid=17048, name='PenTablet.exe', status='running', started='13:10:47')
+C:\Program Files\Pentablet\PenTablet.exe
+psutil.Process(pid=17404, name='chrome.exe', status='running', started='13:10:39')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=17444, name='googledrivesync.exe', status='running', started='13:10:49')
+C:\Program Files\Google\Drive\googledrivesync.exe
+psutil.Process(pid=18208, name='chrome.exe', status='running', started='19:21:21')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=18316, name='chrome.exe', status='running', started='19:23:37')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=18388, name='nvcontainer.exe', status='running', started='12:53:39')
+C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+psutil.Process(pid=18888, name='Code.exe', status='running', started='19:24:20')
+C:\Users\dguisti\AppData\Local\Programs\Microsoft VS Code\Code.exe
+psutil.Process(pid=19352, name='chrome.exe', status='running', started='13:10:39')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=19372, name='NVIDIA Share.exe', status='running', started='12:53:44')
+C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe
+psutil.Process(pid=19600, name='XboxAppServices.exe', status='running', started='13:10:58')
+C:\Program Files\WindowsApps\Microsoft.GamingApp_2106.1001.9.0_x64__8wekyb3d8bbwe\XboxAppServices.exe
+psutil.Process(pid=20052, name='NVDisplay.Container.exe', status='running', started='12:53:40')
+C:\Windows\System32\DriverStore\FileRepository\nvmdi.inf_amd64_4f0927d2d65e905f\Display.NvContainer\NVDisplay.Container.exe
+psutil.Process(pid=20204, name='HTTP Toolkit.exe', status='running', started='19:22:28')
+C:\Users\dguisti\AppData\Local\Programs\httptoolkit\HTTP Toolkit.exe
+psutil.Process(pid=20292, name='Code.exe', status='running', started='19:24:21')
+C:\Users\dguisti\AppData\Local\Programs\Microsoft VS Code\Code.exe
+psutil.Process(pid=20388, name='chrome.exe', status='running', started='19:24:45')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=20492, name='Wacom_TabletUser.exe', status='running', started='12:53:41')
+C:\Program Files\Tablet\Wacom\Wacom_TabletUser.exe
+psutil.Process(pid=20744, name='Creative Cloud Helper.exe', status='running', started='14:34:53')
+C:\Program Files\Adobe\Adobe Creative Cloud\ACC\Creative Cloud Helper.exe
+psutil.Process(pid=20816, name='WacomHost.exe', status='running', started='13:10:31')
+C:\Program Files\Tablet\Wacom\WacomHost.exe
+psutil.Process(pid=21104, name='DiscordCanary.exe', status='running', started='19:35:20')
+C:\Users\dguisti\AppData\Local\DiscordCanary\app-1.0.37\DiscordCanary.exe
+psutil.Process(pid=21220, name='Code.exe', status='running', started='19:26:59')
+C:\Users\dguisti\AppData\Local\Programs\Microsoft VS Code\Code.exe
+psutil.Process(pid=21760, name='AdobeCollabSync.exe', status='running', started='13:10:53')
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\AdobeCollabSync.exe
+psutil.Process(pid=22188, name='OneDrive.exe', status='running', started='13:10:48')
+C:\Program Files (x86)\Microsoft OneDrive\OneDrive.exe
+psutil.Process(pid=22216, name='Wacom_TouchUser.exe', status='running', started='13:10:32')
+C:\Program Files\Tablet\Wacom\Wacom_TouchUser.exe
+psutil.Process(pid=22852, name='chrome.exe', status='running', started='19:22:30')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=22940, name='chrome.exe', status='running', started='13:10:39')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=23216, name='python.exe', status='running', started='19:53:31')
+C:\Users\dguisti\AppData\Local\Programs\Python\Python39\python.exe
+psutil.Process(pid=23352, name='cmd.exe', status='running', started='19:29:04')
+C:\Windows\System32\cmd.exe
+psutil.Process(pid=23416, name='chrome.exe', status='running', started='19:39:01')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=23436, name='chrome.exe', status='running', started='13:10:39')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=23440, name='SecurityHealthSystray.exe', status='running', started='13:10:45')
+C:\Windows\System32\SecurityHealthSystray.exe
+psutil.Process(pid=23816, name='chrome.exe', status='running', started='19:41:31')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=24540, name='chrome.exe', status='running', started='13:10:38')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=24676, name='LogonUI.exe', status='running', started='2021-07-20 16:59:20')
+C:\Windows\System32\LogonUI.exe
+psutil.Process(pid=24732, name='chrome.exe', status='running', started='19:23:33')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=24760, name='chrome.exe', status='running', started='19:22:30')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=25096, name='SearchProtocolHost.exe', status='running', started='19:42:14')
+C:\Windows\System32\SearchProtocolHost.exe
+psutil.Process(pid=25160, name='chrome.exe', status='running', started='19:24:27')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=25464, name='chrome.exe', status='running', started='13:10:39')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=25812, name='HTTP Toolkit.exe', status='running', started='19:22:28')
+C:\Users\dguisti\AppData\Local\Programs\httptoolkit\HTTP Toolkit.exe
+psutil.Process(pid=26080, name='Code.exe', status='running', started='19:26:18')
+C:\Users\dguisti\AppData\Local\Programs\Microsoft VS Code\Code.exe
+psutil.Process(pid=26132, name='chrome.exe', status='running', started='19:22:30')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=26160, name='OVRRedir.exe', status='running', started='19:21:17')
+C:\Program Files\Oculus\Support\oculus-runtime\OVRRedir.exe
+psutil.Process(pid=26164, name='SearchFilterHost.exe', status='running', started='19:53:05')
+C:\Windows\System32\SearchFilterHost.exe
+psutil.Process(pid=26308, name='node.exe', status='running', started='19:22:28')
+C:\Users\dguisti\AppData\Local\Programs\httptoolkit\resources\httptoolkit-server\bin\node.exe
+psutil.Process(pid=26348, name='chrome.exe', status='running', started='19:23:33')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=26496, name='chrome.exe', status='running', started='19:23:34')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=26792, name='chrome.exe', status='running', started='18:24:15')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=27020, name='DiscordCanary.exe', status='running', started='19:35:21')
+C:\Users\dguisti\AppData\Local\DiscordCanary\app-1.0.37\DiscordCanary.exe
+psutil.Process(pid=27104, name='chrome.exe', status='running', started='19:21:25')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=27120, name='Code.exe', status='running', started='19:24:22')
+C:\Users\dguisti\AppData\Local\Programs\Microsoft VS Code\Code.exe
+psutil.Process(pid=27288, name='chrome.exe', status='running', started='19:41:01')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=27632, name='chrome.exe', status='running', started='19:23:32')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=27656, name='chrome.exe', status='running', started='19:29:48')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=27728, name='OVRServer_x64.exe', status='running', started='19:21:17')
+C:\Program Files\Oculus\Support\oculus-runtime\OVRServer_x64.exe
+psutil.Process(pid=28020, name='chrome.exe', status='running', started='19:22:02')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=28080, name='Code.exe', status='running', started='19:24:20')
+C:\Users\dguisti\AppData\Local\Programs\Microsoft VS Code\Code.exe
+psutil.Process(pid=28184, name='HTTP Toolkit.exe', status='running', started='19:22:28')
+C:\Users\dguisti\AppData\Local\Programs\httptoolkit\HTTP Toolkit.exe
+psutil.Process(pid=28212, name='chrome.exe', status='running', started='19:23:37')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=28248, name='chrome.exe', status='running', started='19:22:35')
+C:\Program Files\Google\Chrome\Application\chrome.exe
+psutil.Process(pid=28980, name='DiscordCanary.exe', status='running', started='19:35:19')
+C:\Users\dguisti\AppData\Local\DiscordCanary\app-1.0.37\DiscordCanary.exe
+psutil.Process(pid=29552, name='Code.exe', status='running', started='19:26:19')
+C:\Users\dguisti\AppData\Local\Programs\Microsoft VS Code\Code.exe
+psutil.Process(pid=30092, name='chrome.exe', status='running', started='19:52:27')
+C:\Program Files\Google\Chrome\Application\chrome.exe
